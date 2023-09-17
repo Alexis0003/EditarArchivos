@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\EditarArchivos\EditarArchivos\bin\Debug\EditarArchivos.exe.config
+C:\Users\alexi\source\repos\EditarArchivos\EditarArchivos\bin\Debug\EditarArchivos.exe
+C:\Users\alexi\source\repos\EditarArchivos\EditarArchivos\bin\Debug\EditarArchivos.pdb
+C:\Users\alexi\source\repos\EditarArchivos\EditarArchivos\obj\Debug\EditarArchivos.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\EditarArchivos\EditarArchivos\obj\Debug\EditarArchivos.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\EditarArchivos\EditarArchivos\obj\Debug\EditarArchivos.exe
+C:\Users\alexi\source\repos\EditarArchivos\EditarArchivos\obj\Debug\EditarArchivos.pdb
